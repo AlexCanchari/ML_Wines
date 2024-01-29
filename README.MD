@@ -3,6 +3,9 @@
 
 
 ### Dataset
+
+<p style="text-align: justify;">
+
 * **Alcohol:** El contenido de alcohol contribuye a las propiedades organolépticas del vino, como el sabor y la sensación en boca.
 * **Malic acid:** El ácido málico afecta la acidez y el sabor del vino. Altos niveles pueden contribuir a sabores ácidos y frescos.
 * **Ash:** La ceniza proporciona información sobre los minerales presentes en el vino, lo cual puede influir en su sabor y textura.
@@ -16,4 +19,4 @@
 * **Hue:** El tono del color puede proporcionar información sobre la edad y el estilo del vino.
 * **OD280/OD315 of diluted wines:** Puede proporcionar información sobre la concentración de compuestos específicos y la calidad del vino.
 * **Proline:** La proline puede estar relacionada con la madurez de la uva y afectar la estructura y el sabor del vino.
-
+</p>
