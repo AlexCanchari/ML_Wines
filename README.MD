@@ -6,7 +6,7 @@ En este Repositorio, se analizó la distribución de diferentes atributos quími
 
 
 Para correr la API (ya se encuentra subida en Docker Hub):
-```docker run -p3000:3000 alexcanchari/mlapp```
+```docker run -p3000:3000 alexcanchari/mlapp``` 
 
 
 
@@ -34,3 +34,6 @@ Igual por si acaso, está también la lista de requirements:
 * **Proline:** La proline puede estar relacionada con la madurez de la uva y afectar la estructura y el sabor del vino.
 
 
+Referencias:
+
+* Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor. 2023. An Introduction to Statistical Learning. Springer International Publishing. https://doi.org/10.1007/978-3-031-38747-0
