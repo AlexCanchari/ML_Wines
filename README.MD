@@ -6,6 +6,8 @@ En este Repositorio, se analizó la distribución de diferentes atributos quími
 
 
 Para correr la API (ya se encuentra subida en Docker Hub):
+<p></p>
+
 ```docker run -p3000:3000 alexcanchari/mlapp``` 
 
 
