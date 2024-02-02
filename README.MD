@@ -13,9 +13,13 @@ Para correr la API (ya se encuentra subida en Docker Hub):
 
 
 Si usas la terminal puedes usar este código o apoyarte de Postman:
+<p> </p>
+
 `curl -X POST -H "Content-Type:application/json" -d @data.json http://localhost:3000/predict`
 
 Igual por si acaso, está también la lista de requirements:
+<p> </p>
+
 `pip install -r requirements.txt`
 
 
