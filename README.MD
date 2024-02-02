@@ -12,7 +12,7 @@ Para correr la API (ya se encuentra subida en Docker Hub):
 
 
 
-Si usas la terminal puedes usar este código o apoyarte de Postman:
+Si usas la terminal puedes usar este código o apoyarte de Postman (utilizar la base que dice datos de prueba, **debe seguir ese formato**):
 <p> </p>
 
 `curl -X POST -H "Content-Type:application/json" -d @data.json http://localhost:3000/predict`
