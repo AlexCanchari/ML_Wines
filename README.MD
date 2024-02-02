@@ -4,11 +4,15 @@
 
 En este Repositorio, se analizó la distribución de diferentes atributos químicos que contienen los vinos en cultivos de Italia. Se aplicaron anális de diversos tipos y se realizó una comparación entre dos tipos de Clustering: Kmeans y Hierarchical. Se determinó que el mejor por Silhouette Score fue Kmeans. Finalmente, se Dockerizó el modelo en una Api de Flask en Docker para futuras contribuciones =). 
 
+
 Para correr la API (ya se encuentra subida en Docker Hub):
 `docker run -p3000:3000 alexcanchari/mlapp`
 
 Si usas la terminal puedes usar este código o apoyarte de Postman:
 `curl -X POST -H "Content-Type:application/json" -d @data.json http://localhost:3000/predict`
+
+Igual por si acaso, está también la lista de requirements:
+`pip install -r requirements.txt`
 
 
 ### Dataset
