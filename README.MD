@@ -2,6 +2,13 @@
 
 ![picture alt](https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2021/08/copas-2446819.jpg?tf=3840x)
 
+En este Repositorio, se analizó la distribución de diferentes atributos químicos que contienen los vinos en cultivos de Italia. Se aplicaron anális de diversos tipos y se realizó una comparación entre dos tipos de Clustering: Kmeans y Hierarchical. Se determinó que el mejor por Silhouette Score fue Kmeans. Finalmente, se Dockerizó el modelo en una Api de Flask en Docker para futuras contribuciones =). 
+
+Para correr la API (ya se encuentra subida en Docker Hub):
+`docker run -p3000:3000 alexcanchari/mlapp`
+
+Si usas la terminal puedes usar este código o apoyarte de Postman:
+`curl -X POST -H "Content-Type:application/json" -d @data.json http://localhost:3000/predict`
 
 
 ### Dataset
@@ -19,3 +26,5 @@
 * **Hue:** El tono del color puede proporcionar información sobre la edad y el estilo del vino.
 * **OD280/OD315 of diluted wines:** Puede proporcionar información sobre la concentración de compuestos específicos y la calidad del vino.
 * **Proline:** La proline puede estar relacionada con la madurez de la uva y afectar la estructura y el sabor del vino.
+
+

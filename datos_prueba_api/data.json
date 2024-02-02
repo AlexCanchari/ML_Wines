@@ -1,0 +1,49 @@
+{
+  "datos": [
+    {
+      "Alcohol": 14.23,
+      "Malic_Acid": 1.71,
+      "Ash": 2.43,
+      "Ash_Alcanity": 15.6,
+      "Magnesium": 127,
+      "Total_Phenols": 2.80,
+      "Flavanoids": 3.06,
+      "Nonflavanoid_Phenols": 0.28,
+      "Proanthocyanins": 2.29,
+      "Color_Intensity": 5.64,
+      "Hue": 1.04,
+      "OD280": 3.92,
+      "Proline": 1065
+    },
+    {
+      "Alcohol": 13.20,
+      "Malic_Acid": 1.78,
+      "Ash": 2.14,
+      "Ash_Alcanity": 11.2,
+      "Magnesium": 100,
+      "Total_Phenols": 2.65,
+      "Flavanoids": 2.76,
+      "Nonflavanoid_Phenols": 0.26,
+      "Proanthocyanins": 1.28,
+      "Color_Intensity": 4.38,
+      "Hue": 1.05,
+      "OD280": 3.40,
+      "Proline": 1050
+    },
+    {
+      "Alcohol": 13.16,
+      "Malic_Acid": 2.36,
+      "Ash": 2.67,
+      "Ash_Alcanity": 18.6,
+      "Magnesium": 101,
+      "Total_Phenols": 2.80,
+      "Flavanoids": 3.24,
+      "Nonflavanoid_Phenols": 0.30,
+      "Proanthocyanins": 2.81,
+      "Color_Intensity": 5.68,
+      "Hue": 1.03,
+      "OD280": 3.17,
+      "Proline": 1185
+    }
+  ]
+}
