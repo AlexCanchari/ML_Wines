@@ -40,6 +40,6 @@ Igual por si acaso, está también la lista de requirements:
 * **Proline:** La proline puede estar relacionada con la madurez de la uva y afectar la estructura y el sabor del vino.
 
 
-Referencias:
+### Referencias:
 
 * Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor. 2023. An Introduction to Statistical Learning. Springer International Publishing. https://doi.org/10.1007/978-3-031-38747-0
